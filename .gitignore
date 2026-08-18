@@ -1,0 +1,2 @@
+# Excel creates these temporary lock files while a workbook is open.
+~$*.xlsx
